@@ -1,2 +1,2 @@
 # Doodlebug
-Predator/Prey Simulation, uses OOP
+Predator/Prey simulation game enacted on the command line
